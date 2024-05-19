@@ -1,0 +1,1 @@
+# cohere-embed-v3-multilingual-skill
