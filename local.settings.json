@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "AzureWebJobsStorage": "",
+    "COHERE_EMBED_ENDPOINT": "https://<Your-Deploy-Name>.inference.ai.azure.com/v1",
+    "COHERE_EMBED_KEY": ""
+  }
+}
